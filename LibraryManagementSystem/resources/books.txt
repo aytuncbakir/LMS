@@ -1,0 +1,5 @@
+Novel1,Author1,isbn1,novel,1
+Novel2,Author2,isbn2,novel,0
+Novel3,Author3,isbn3,novel,1
+Novel4,Author4,isbn4,novel,1
+Novel5,Author5,isbn5,novel,1
